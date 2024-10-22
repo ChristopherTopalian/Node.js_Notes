@@ -1,6 +1,6 @@
 // console.log_array_of_objects.js
 
-const people = [
+let people = [
     {
         name: 'Jane',
         score: 95
